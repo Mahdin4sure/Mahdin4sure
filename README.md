@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Mahdin from **Republic of India**<br><br>- 🔭 I’m passionate student <br>- 📚 I'm currently learning some softwares and programing languages...<br>- ⚡ In my free time I spend my time in coding or reading.</p>
+<p align="left">I'm Mahdin from Republic of India<br><br>- 🔭 I’m passionate student <br>- 📚 I'm currently learning some softwares and programing languages...<br>- ⚡ In my free time I spend my time in coding or reading.</p>
 
 ###
 
