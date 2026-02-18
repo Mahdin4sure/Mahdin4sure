@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mahdin4sure.Mahdin4sure&left_color=darkgray&right_color=dimgrey&left_text=Visitors"  />
 </div>
 
 ###
