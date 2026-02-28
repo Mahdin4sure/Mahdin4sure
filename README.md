@@ -1,58 +1,28 @@
-# 👋 About Me
+# 👋 Hello, I'm Mahdin
 
-Hi, I'm **TITAN CameraMan** — a tech enthusiast and Linux learner pushing the limits of Android. I explore advanced system setups using only a smartphone and Termux.
-
----
-
-### 🚀 What I'm Doing
-- Learning Linux through Termux, without needing a PC.
-- Running native XFCE4 desktops and Debian PRoot with full GUI support on Android.
-- Using hardware acceleration with Zink in Termux.
-- Building scripts, tutorials, and environments for desktop-class Linux on phones.
-- Running GUI apps from PRoot on native Termux X11 via TCP/XDG/PulseAudio bridging.
-- Following productivity.
+I am a student with a strong interest in Linux systems, low-level computing, and constrained-environment development.
 
 ---
+# What I'm doing?
 
-### 📦 Featured Repository
-**[🧰 Full Termux Desktop](https://GitHub.com/Prime-TITAN-CameraMan/Termux-Desktop)**
+- 🐧 Learning linux using Android Smartphone and Termux.
 
-> A full guide + scripts to install and run XFCE4 Desktop Environment natively in Termux with:
-- Termux X11 and PulseAudio support
-- Mali & Adreno GPU compatibility (Zink & VirGL), HWA supported
-- Cross-environment GUI apps (Debian PRoot → Native XFCE)
-- Storage optimization, troubleshooting, and performance tuning
-  
-**This repo is designed for users who want to build a usable Linux desktop on Android, without root or external hardware.**
+- ⚙️ Experimenting with advanced system configurations and minimal setups.
 
----
-### ⚙️ Skills & Interests
-- Linux CLI / XFCE4 / GUI
-- Shell scripting, Termux
-- GPU acceleration (Zink, Panfrost, VirGL)
-- GUI apps in Termux + PRoot
+- 🖥️ Focused on command-line workflows, shell environments, and system optimization.
+
+- 🔍 Exploring the architecture and internal mechanics of Minecraft.
+
+- 📚 Continuously learning about operating systems, networking fundamentals, and software tooling
+
+I enjoy pushing hardware and software limitations, building efficient workflows, and understanding how systems work beneath the surface.
 
 ---
+# My stats 📈
 
-### 🧠 Goals
-- Make advanced Linux setups accessible from smartphones
-- Create scripts/utilities for Linux workflows
-- Contribute to Termux, Android-Linux, and mobile projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahdin4sure&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahdin4sure&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=My%20Stats" height="150" alt="languages graph"  />
+</div>
 
-> “Limitations are just complex configurations waiting to be solved.”
-
----
-
-### Contact & Community
-If you have any suggestion, issues or want help, contact & talk with me, support me then:
-
-**Community & Support**
-- **Discord Community Support**: Join our Discord community support server **[TCM TechHub](https://discord.gg/xCMJwG5gGK)**
-- **Telegram Community Support**: Head over to our Telegram community group **[TCM TechHub](https://t.me/TCM_TechHub)**
-- **YouTube Channel**: Subscribe my channel on YouTube **[TCM Tech](https://YouTube.com/@TCM-Tech)**
-
-**Contact Me**
-- **Email:** mail to me **AtishGaming.Business@gmail.com**  
-- **Discord**: DM me directly on Discord **[Prime TITAN CameraMan](https://discord.com/users/1123913873104322601)**
-  > Link might not open my DM, try coinsidering join my Discord and ping me there
-- **Telegram**: Directly message me on Telegram **[Prime TITAN CameraMan](https://t.me/Atish_Gaming_Official)**
+###
