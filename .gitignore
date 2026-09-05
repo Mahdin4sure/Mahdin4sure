@@ -1,7 +1,6 @@
 # Generated files
 *.svg
 dev-joke.svg
-activity-graph.svg
 
 # Python
 __pycache__/
