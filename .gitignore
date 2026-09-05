@@ -1,0 +1,28 @@
+# Generated files
+*.svg
+dev-joke.svg
+activity-graph.svg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if using)
+node_modules/
+.env
