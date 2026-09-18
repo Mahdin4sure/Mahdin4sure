@@ -264,7 +264,7 @@
 <h3 align="center">📈 Contribution graph</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mahdin4sure/Mahdin4sure/readme/activity-graph.svg" alt="MahdinOriginal's GitHub activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdin4sure&theme=tokyo-night&hide_border=false" alt="MahdinOriginal's GitHub activity graph">
 </p>
 </div>
 
