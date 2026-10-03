@@ -1,0 +1,31 @@
+name: Update Activity Graph
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=synthwave-84&hide_border=true
+          output_path: dist/activity-graph.svg
+
+      - name: Push activity-graph.svg
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/activity-graph.svg
+          git commit -m "Update activity graph" || exit 0
+          git push origin readme
